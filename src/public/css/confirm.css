@@ -1,0 +1,33 @@
+.form {
+  margin: 10px 35px;
+}
+
+.header__inner {
+  margin: 0 auto;
+  padding: 20px 15px;
+  max-width: 1230px;
+}
+
+.header__logo {
+  color: #cfab72;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 24px;
+  background-color: #f8eacf;
+}
+
+table {
+  width: 60%;
+  border-collapse: collapse;
+}
+
+table th,
+table td {
+  border: 1px solid #f8eacf;
+  padding: 20px;
+}
+
+table th {
+  font-weight: bold;
+  background-color: #cfab72;
+}

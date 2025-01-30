@@ -1,0 +1,28 @@
+.header__inner {
+  text-align: center;
+  max-width: 1230px;
+}
+
+.header__logo {
+  color: #cfab72;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.contact-form__content {
+  text-align: center;
+  max-width: 1230px;
+  color: #cfab72;
+}
+
+.contact-form__heading {
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.member {
+  width: 60%;
+  margin: 20px auto;
+
+}
