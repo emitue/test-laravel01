@@ -31,3 +31,4 @@ URL
 ・phpMyAdmin：http://localhost:8080/
 =======
 >>>>>>> 126ba3f (first commit)
+# test-laravel01
